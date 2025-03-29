@@ -1,0 +1,42 @@
+.heading{
+    background-image: url('../img/headingBackground.jpeg');
+    height: 100px;
+    padding: 30px;
+    margin: auto;
+    color: darkgreen;
+    box-sizing: border-box;
+}
+
+.recipe{
+    height: 100px;
+    padding: 30px;
+    margin: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+#dosa{
+    background-image: url('../img/dosa.jpg');
+}
+
+#fish{
+    background-image: url('../img/fish.jpg');
+}
+
+#chicken{
+    background-image: url('../img/chicken.jpg');
+}
+
+a {
+    color: white; 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: lightgray; 
+}
+
+
